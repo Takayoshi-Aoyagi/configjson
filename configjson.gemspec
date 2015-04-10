@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["takayoshi.aoyagi@gmail.com"]
   spec.summary       = "Configure your ruby applications with JSON"
   spec.description   = "config-json organizes hierarchical configurations for your app deployments"
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/Takayoshi-Aoyagi/configjson"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
